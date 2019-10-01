@@ -1,0 +1,24 @@
+{
+"id" : "1",
+"animal" : "squirrel",
+"age" : "adult",
+"activity" : "eating"
+},
+{
+"id" : "2",
+"animal" : "chipmunk",
+"age" : "adult",
+"activity" : "eating"
+},
+{
+"id" : "3",
+"animal" : "bluejay",
+"age" : "adult",
+"activity" : "eating"
+},
+{
+"id" : "4",
+"animal" : "bluejay",
+"age" : "baby",
+"activity" : "trying"
+}
